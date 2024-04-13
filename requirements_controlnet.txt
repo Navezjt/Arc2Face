@@ -1,6 +1,4 @@
 numpy<1.24.0
-torch==2.0.1
-torchvision==0.15.2
 diffusers==0.23.0
 transformers==4.34.1
 peft
@@ -8,3 +6,10 @@ accelerate
 insightface
 onnxruntime-gpu
 gradio
+face-alignment
+omegaconf
+pytorch-lightning==1.4.9
+torchmetrics==0.6.2
+torchfile
+facenet-pytorch
+chumpy
